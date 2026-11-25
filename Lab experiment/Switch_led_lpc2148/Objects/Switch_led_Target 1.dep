@@ -1,0 +1,4 @@
+Dependencies for Project 'Switch_led', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips--pd "__UVISION_VERSION SETA 520"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (K:\switch_led.c)(0x6AFD5223)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-I C:\Keil_v5\ARM\RV31\INC-I C:\Keil_v5\ARM\CMSIS\Include-I C:\Keil_v5\ARM\Inc\Philips-D__UVISION_VERSION="520"-o .\objects\switch_led.o --omf_browse .\objects\switch_led.crf --depend .\objects\switch_led.d)
+I (C:\Keil_v5\ARM\Inc\Philips\lpc214x.h)(0x559CFE30)
